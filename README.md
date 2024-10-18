@@ -3,7 +3,7 @@ This repository contains basic examples of using Hugging Face's transformers lib
   **• Text Classification:** Automatically categorize input text.
   **• Sentiment Analysis:** Detect positive or negative sentiment in text.
   **• Text Summarization:** Generate concise summaries of longer text passages.
-  
+   
 **Key Features**
  **• No Pre-specified Models:** The code doesn't specify particular models for each task. Hugging Face automatically selects and uses the most suitable default model for the task (e.g., for text classification and sentiment analysis). This ensures ease of use without needing deep knowledge of specific models.
   
