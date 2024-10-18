@@ -5,7 +5,7 @@ This repository contains basic examples of using Hugging Face's transformers lib
   **• Text Summarization:** Generate concise summaries of longer text passages.
   
 **Key Features**
-  **• No Pre-specified Models:** The code doesn't specify particular models for each task. Hugging Face automatically selects and uses the most suitable default model for the task (e.g., for text classification and sentiment analysis). This ensures ease of use without needing deep knowledge of specific models.
+ **• No Pre-specified Models:** The code doesn't specify particular models for each task. Hugging Face automatically selects and uses the most suitable default model for the task (e.g., for text classification and sentiment analysis). This ensures ease of use without needing deep knowledge of specific models.
   
 **How to Use**
   1. Clone the repository and open the provided Jupyter Notebook file.
