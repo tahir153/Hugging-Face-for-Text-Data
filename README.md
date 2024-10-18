@@ -1,9 +1,7 @@
 # Hugging Face Text Processing with Transformers
 This repository contains basic examples of using Hugging Face's transformers library for text data processing tasks, including:
   **• Text Classification:** Automatically categorize input text.
-  
   **• Sentiment Analysis:** Detect positive or negative sentiment in text.
-  
   **• Text Summarization:** Generate concise summaries of longer text passages.
    
 **Key Features**
@@ -15,7 +13,5 @@ This repository contains basic examples of using Hugging Face's transformers lib
 
 **Example Tasks**  
   **• Text Classification:** Categorize text into different labels based on its content.
-  
   **• Sentiment Analysis:** Identify whether a piece of text carries a positive or negative sentiment.
-  
   **• Text Summarization:** Automatically create a summary from long-form text.
